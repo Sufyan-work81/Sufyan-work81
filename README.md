@@ -14,23 +14,6 @@
 
 **Passionate AI engineer specializing in deep learning, computer vision, and data analytics. Expert in building scalable ML pipelines, developing intelligent systems, and transforming complex data into actionable insights. Experienced in deploying production-ready AI solutions that drive innovation and business growth across diverse industries and applications.**
 
-<div align="center">
-
-```ascii
-    🤖 CYBER ROBOT 🤖
-         ___
-        |o o|  <- Blinking Eyes
-        |_u_|
-     ____|||____
-    |  ⚡ CORE ⚡ |
-    |___________|
-       |  |  |
-      /|  |  |\
-     | |  |  | |
-     |_|  |  |_|
-       
-   ✨ AI POWERED ✨
-```
 
 </div>
 
@@ -81,18 +64,6 @@
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sufyan-work81&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan-work81&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sufyan-work81&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF)
-
-</div>
 
 ---
 
@@ -150,23 +121,6 @@ Jupyter         █████████████████████�
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sufyan-work81&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
