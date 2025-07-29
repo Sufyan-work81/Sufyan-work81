@@ -96,16 +96,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sufyan-work81&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📊 Skill Levels
 
 <div align="center">
