@@ -159,14 +159,6 @@ Jupyter         █████████████████████�
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
 ---
 
 ## 💡 Random Dev Quote
