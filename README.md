@@ -4,7 +4,7 @@
   
 ### 🚀 Machine Learning & AI Software Engineer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Data+Analytics+Expert;AI+Software+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;Machine+Learning+Engineer;Deep+Learning+Specialist;Data+Analytics+Expert;AI+Software+Developer)
 
 </div>
 
