@@ -4,11 +4,10 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&size=25&duration=2000&pause=1000&color=D1FF4D&center=false&vCenter=false&multiline=true&width=1000&height=280&lines=I'm+Sufyan+Ahmad,+an+Agentic+AI+and+ML/DL/RL+Expert+with+6++years+of+experience.;I+specialize+in+building+and+deploying+15++end-to-end+products+from+scratch.;My+journey+includes+automating+workflows+for+50++brands+across+10+countries,;including+the+USA,+UK,+Japan,+and+Germany.+I'm+passionate+about+transforming;complex+research+into+scalable,+real-world+AI+solutions." alt="Sufyan Ahmad Bio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&size=25&duration=1500&pause=1000&color=D1FF4D&center=false&vCenter=false&multiline=true&width=1000&height=200&lines=I'm+Sufyan+Ahmad,+an+Agentic+AI+and+ML/DL/RL+Expert+with+6++years+of+experience.;I+specialize+in+building+and+deploying+15++end-to-end+products+from+scratch.;My+journey+includes+automating+workflows+for+50++brands+across+10+countries,;including+the+USA,+UK,+Japan,+and+Germany.+I'm+passionate+about+transforming;complex+research+into+scalable,+real-world+AI+solutions." alt="Sufyan Ahmad Bio" />
 </p>
 
 <div style="display:none">
