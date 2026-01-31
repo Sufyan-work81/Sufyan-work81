@@ -1,5 +1,4 @@
-# 🤖 Sufyan Ahmad
-
+<img width="1584" height="396" alt="linkedin sufyan bannnar (1)" src="https://github.com/user-attachments/assets/a40b59de-9cdc-4241-9412-01d49d6153fd" />
 <div align="center">
   
 ### 🚀 Machine Learning & AI Software Engineer
