@@ -34,6 +34,44 @@
 
 <div align="center">
 
+## 🤖 AI Agents, Automation & LLM Stack
+
+### 🧠 AI Agents Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2B2E4A?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📚 Retrieval Augmented Generation (RAG)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4B0082?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector%20Database-Embeddings-FA4B00?style=for-the-badge)
+
+---
+
+### 🧠 Local & Open Source LLMs
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 🔄 Automation & Workflow Orchestration
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+### ☁️ Cloud AI & Deployment
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 🧩 AI Engineering & Ops
+![LLMOps](https://img.shields.io/badge/LLMOps-Model%20Monitoring-2E8B57?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Autonomous%20Workflows-0B3C5D?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM%20Optimization-8B0000?style=for-the-badge)
+
 ### 🧠 Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -61,9 +99,40 @@
 
 </div>
 
----
+## 🚀 Projects
+
+### 🤖 AI Automation Systems
+- 🔗 https://muhammadraffay-max.github.io/AI-Automation/
+- 🔗 https://ai-automation-project.netlify.app/
+- 🔗 https://muhammadraffay-max.github.io/AI-Automation-Project/
+
+### 🎨 AI Image Generation Projects
+- 🔗 https://muhammadraffay-max.github.io/Image-Generation/
+- 🔗 https://muhammadraffay-max.github.io/Generate-Image-Project/
+
+### 🧠 AI Agent Project
+- 🔗 https://muhammadraffay-max.github.io/AI-Agent-Project/
 
 ---
+
+## 💼 What I Build
+
+- ✅ AI Business Automation Agents  
+- ✅ Customer Support & Sales AI Agents  
+- ✅ RAG-based Knowledge Assistants  
+- ✅ Workflow Automation (CRM, Email, Support)  
+- ✅ AI-powered Dashboards & Decision Systems  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/Sufyan-work8  
+- 💬 Open to **freelance, remote, and teaching opportunities**
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
 
 
 
